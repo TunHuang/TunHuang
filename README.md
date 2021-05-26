@@ -1,5 +1,5 @@
 # Hi there, I'm Tun Huang. You can call me Anton 👋
-[![image]({https://img.shields.io/badge/-Tun%20Huang-blue?style=flat&logo=Linkedin&logoColor=white})](https://www.linkedin.com/in/tun-huang-877a071b2/)
+[![image](https://img.shields.io/badge/-Tun%20Huang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tun-huang-877a071b2/)
 <!--
 **TunHuang/TunHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
